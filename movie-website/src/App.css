@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Caveat:wght@700&family=Frank+Ruhl+Libre:wght@400;500&family=Inter:wght@300;400;500;600&family=Mulish:wght@200;300;400;500&family=Nunito+Sans:opsz,wght@6..12,200;6..12,300;6..12,400;6..12,500;6..12,600;6..12,700&family=Poppins:wght@100;200;300;400;500;600;700&family=Red+Hat+Display:ital,wght@0,400;0,500;0,700;1,500&family=Roboto:wght@300;400;500;700&family=Saira+Condensed:wght@300;400;500;600&family=Tajawal:wght@300;400;500;700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

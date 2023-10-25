@@ -1,0 +1,20 @@
+.movies-container{
+    width: 80%;
+    margin: 40px auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.card{
+    width: 24%;
+    margin-bottom: 20px;
+    border-radius: 6px;
+    box-shadow: 0 0 3pxrgb(188, 188, 188)y;
+}
+.card .image{
+    height: 550px;
+}
+.card .movie-title{
+    height: 70px
+}
+

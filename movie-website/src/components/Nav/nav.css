@@ -1,0 +1,28 @@
+nav{
+    width: 80%;
+    margin: auto;
+    padding: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav .logo{
+    width: 200px;
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+ul li{
+    margin-left: 40px;
+}
+ul li:hover{
+    color: rgb(86, 182, 214);
+}
+ul a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
